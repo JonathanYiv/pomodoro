@@ -2,6 +2,8 @@
 
 Check out my (Future Github Pages Pomodoro Timer Link)
 
+The [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) is a time management method that uses a timer to break work down into intervals separated by short breaks.
+
 This is a project from [The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/pairing-project).
 
 (Future Screenshot)
