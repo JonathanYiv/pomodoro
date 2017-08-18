@@ -1,7 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+html {
+	height: 100%;
+	margin: 0;
+
+	background-image: url("../images/background.jpg");
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	overflow: hidden;
+}
+
 .container {
+	opacity: 0.7;
 	width: 500px;
-	height: 500px;
+	height: 200px;
 	text-align: center;
+	margin: 50% auto;
+	background: url("../images/ep_naturalwhite.png") repeat 0 0;
+}
+
+.header {
 	outline: 1px solid black;
-	margin: 20% auto;
+	height: 37.5%;
+}
+
+.control_panel {
+	outline: 1px solid black;
+	height: 62.5%;
+}
+
+h1 {
+	padding: 10px;
+	font-size: 55px;
+	font-family: 'Raleway', sans-serif;
+	text-shadow: 2px 2px black;
+	font-weight: bold;
+}
+
+.fa {
+	padding: 5%;
 }
