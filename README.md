@@ -1,6 +1,6 @@
 # Pomodoro Project
 
-Check out my (Future Github Pages Pomodoro Timer Link)
+Check out my [Pomodoro Timer](https://jonathanyiv.github.io/pomodoro/)!
 
 The [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) is a time management method that uses a timer to break work down into intervals separated by short breaks.
 
