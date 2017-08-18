@@ -6,7 +6,7 @@ The [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) is a 
 
 This is a project from [The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/pairing-project).
 
-(Future Screenshot)
+![Screenshot](./images/screenshot.png)
 
 ## Pre-Project Thoughts
 
@@ -20,4 +20,10 @@ This is a project from [The Odin Project](https://www.theodinproject.com/courses
 
 ## Post-Project Thoughts
 
-This project is currently incomplete.
+1. For this project, I wanted to focus on making it a little prettier and having a little responsive design over just the functionality. Some of the things I considered:
+
+	1. I learned about "icon fonts" and used [FontAwesome](http://fontawesome.io/) as my buttons. I wish I knew about this for the Google Search/Homepage projects. It is definitely really nifty and useful.
+
+	2. I read about 'textures' and used a texture from [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/).
+
+2. One thing I noticed was that right now I am learning Ruby, and transitioning back to HTML/CSS/Javascript/jQuery was a bit difficult as I don't believe I had developed mastery over each of the tools. HTML and CSS came back to me the easiest, but I found myself having to think harder when trying to figure out the necessary Javascript code to produce my desired result.

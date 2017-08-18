@@ -18,7 +18,7 @@ html {
 	width: 500px;
 	height: 200px;
 	text-align: center;
-	margin: 50% auto;
+	margin: 10% auto;
 	background: url("../images/ep_naturalwhite.png") repeat 0 0;
 }
 
@@ -32,7 +32,7 @@ html {
 	height: 62.5%;
 }
 
-h1 {
+.header h1 {
 	padding: 10px;
 	font-size: 55px;
 	font-family: 'Raleway', sans-serif;
@@ -42,4 +42,14 @@ h1 {
 
 .fa {
 	padding: 5%;
+	color: black;
+}
+
+.timer h1 {
+	font-size: 2000%;
+	text-align: center;
+	padding-top: 15%;
+	color: white;
+	text-shadow: 2px 2px white;
+	font-weight: bold;
 }
